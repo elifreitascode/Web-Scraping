@@ -1,2 +1,2 @@
 # Web-Scraping
-Web Scraping para monitoramento de preço de um produto,toda vez que o produto estiver com o valor desejado,um email será enviado.
+Web Scraping para monitoramento de preço de um produto, toda vez que o produto estiver com o valor desejado, um email será enviado, para uma conta de email cadastrada. Nesse código, foi criada uma conta no Outlook para testes do programa e utilizadas as bibliotecas BeautifulSoup4 e a Requests. A biblioteca Requests foi utilizada para fazer a requisição do site e a BeautifulSoup4 para fazer a raspagem de dados.
